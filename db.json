@@ -1,0 +1,232 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Facewash Jel",
+      "price": "40",
+      "sellprice": "35",
+      "img": "https://i.postimg.cc/zXDwcPpj/1.jpg",
+      "category": "gents",
+      "desc": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": 2,
+      "name": "Max wash jel",
+      "price": "43",
+      "sellprice": "35",
+      "img": "https://i.postimg.cc/fy8dsD5v/2.jpg",
+      "category": "gents",
+      "desc": "Publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": 3,
+      "name": "Oxime",
+      "price": "20",
+      "sellprice": "15",
+      "img": "https://i.postimg.cc/8CvLv8P1/3.jpg",
+      "category": "gents",
+      "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+    },
+    {
+      "id": 4,
+      "name": "After saower jel",
+      "price": "33",
+      "sellprice": "20",
+      "img": "https://i.postimg.cc/CKbf1jm5/4.jpg",
+      "category": "gents",
+      "desc": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+    },
+    {
+      "id": 5,
+      "name": "Crew for man",
+      "price": "38",
+      "sellprice": "33",
+      "img": "https://i.postimg.cc/XqPvxJQt/5.jpg",
+      "category": "gents",
+      "desc": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic."
+    },
+    {
+      "id": 6,
+      "name": "Baby comble",
+      "price": "120",
+      "sellprice": "100",
+      "img": "https://i.postimg.cc/HxCX4SVb/6.jpg",
+      "category": "baby",
+      "desc": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 7,
+      "name": "Baby fit",
+      "price": "80",
+      "sellprice": "60",
+      "img": "https://i.postimg.cc/HsS0D4hC/7.jpg",
+      "category": "baby",
+      "desc": " Baby fit Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour."
+    },
+    {
+      "id": 8,
+      "name": "Baby shop",
+      "price": "90",
+      "sellprice": "75",
+      "img": "https://i.postimg.cc/YCh6pG5L/8.jpg",
+      "category": "baby",
+      "desc": " Baby shop It uses a dictionary of over Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic."
+    },
+    {
+      "id": 9,
+      "name": "Baby saower crime",
+      "price": "70",
+      "sellprice": "60",
+      "img": "https://i.postimg.cc/132p4RSC/9.jpg",
+      "category": "baby",
+      "desc": " Baby saower crime It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 10,
+      "name": "Baby saower crime jel",
+      "price": "90",
+      "sellprice": "75",
+      "img": "https://i.postimg.cc/dVbywWRg/10.jpg",
+      "category": "baby",
+      "desc": " Baby saower crime jel  combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words "
+    },
+
+    {
+      "id": 11,
+      "name": "Best deal combo",
+      "price": "7000",
+      "sellprice": "6000",
+      "img": "https://i.postimg.cc/7YQzQP5H/11.jpg",
+      "category": "electronics",
+      "desc": "Best deal combo to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free."
+    },
+    {
+      "id": 12,
+      "name": "Home combo pack",
+      "price": "4000",
+      "sellprice": "3000",
+      "img": "https://i.postimg.cc/d3V74gvZ/12.jpg",
+      "category": "electronics",
+      "desc": " Home combo pack with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free from repetition, injected humour, or non-characteristic words "
+    },
+    {
+      "id": 13,
+      "name": "Google home mini",
+      "price": "1200",
+      "sellprice": "600",
+      "img": "https://i.postimg.cc/nzkjKn8t/13.webp",
+      "category": "electronics",
+      "desc": " Google home mini to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words."
+    },
+    {
+      "id": 14,
+      "name": "Dual driver headphone",
+      "price": "150",
+      "sellprice": "130",
+      "img": "https://i.postimg.cc/nhjm88mv/14.jpg",
+      "category": "electronics",
+      "desc": " dual driver headphone with a handful of model sentence structures, to generate L is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free from repetition."
+    },
+    {
+      "id": 15,
+      "name": "Headphone",
+      "price": "200",
+      "sellprice": "170",
+      "img": "https://i.postimg.cc/MTxfjvFD/15.jpg",
+      "category": "electronics",
+      "desc": "Headphone of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+
+    {
+      "id": 16,
+      "name": "Facemaker",
+      "price": "60",
+      "sellprice": "56",
+      "img": "https://i.postimg.cc/nc5sGdWM/16.jpg",
+      "category": "ladies",
+      "desc": "Facemaker of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 17,
+      "name": "Foundation cream",
+      "price": "50",
+      "sellprice": "34",
+      "img": "https://i.postimg.cc/1X78TM5C/17.jpg",
+      "category": "ladies",
+      "desc": "Foundation cream of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 18,
+      "name": "Mackup pack",
+      "price": "67",
+      "sellprice": "56",
+      "img": "https://i.postimg.cc/FR91HwYC/18.png",
+      "category": "ladies",
+      "desc": "Mackup pack sentence structures, to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 19,
+      "name": "Facee wash",
+      "price": "67",
+      "sellprice": "46",
+      "img": "https://i.postimg.cc/ZqPCZJ5y/19.jpg",
+      "category": "ladies",
+      "desc": "Facee wash model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 20,
+      "name": "Facewash combo",
+      "price": "120",
+      "sellprice": "90",
+      "img": "https://i.postimg.cc/Y2dLh2f6/20.jpg",
+      "category": "ladies",
+      "desc": "Facewash combo to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+
+    {
+      "id": 21,
+      "name": "Kitchen globes",
+      "price": "150",
+      "sellprice": "100",
+      "img": "https://i.postimg.cc/T11wrmqr/21.jpg",
+      "category": "kitchen",
+      "desc": "Kitchen globes  to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 22,
+      "name": "Kitchen jar",
+      "price": "160",
+      "sellprice": "140",
+      "img": "https://i.postimg.cc/c46gYqXV/22.jpg",
+      "category": "kitchen",
+      "desc": "Kitchen jar to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 23,
+      "name": "Kitchen Toaster",
+      "price": "340",
+      "sellprice": "280",
+      "img": "https://i.postimg.cc/pLFmGfNC/23.jpg",
+      "category": "kitchen",
+      "desc": "Kitchen Toaster jar to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 24,
+      "name": "Tea catli",
+      "price": "160",
+      "sellprice": "140",
+      "img": "https://i.postimg.cc/wv0MyFJq/24.jpg",
+      "category": "kitchen",
+      "desc": "Kitchen Tea catli to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    },
+    {
+      "id": 25,
+      "name": "Smart kitchen ",
+      "price": "340",
+      "sellprice": "300",
+      "img": "https://i.postimg.cc/HL1Vfrdg/25.jpg",
+      "category": "kitchen",
+      "desc": "Smart kitchen  to generate Lorem Ipsum which looks reasonable. The generated is therefore always free from repetition, injected humour, or non-characteristic words,The generated is therefore always free.  "
+    }
+  ]
+}
